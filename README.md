@@ -27,7 +27,7 @@ Bu veri seti, akciğer kanseri için potansiyel risk faktörlerini incelemeyi am
 -Cancer: 'Evet' veya 'Hayır' seçenekleriyle yanıtlayana akciğer kanseri teşhisi konulduğunu belirtir. Bu alan, akciğer kanseri için potansiyel risk faktörlerini simüle etmek amacıyla yaş, sigara içme durumu, çalışma süresi ve yaşam tarzı seçimleri gibi faktörlerin bir kombinasyonuna dayalı olarak yapay olarak manipüle edilir.
 
 
-# Aşşağıdaki gibi soruların analizi gösterilmiştir.
+# Aşağıdaki gibi soruların analizi gösterilmiştir.
 
  - Çalıştığı yıl sayısı arttıkça kanser olma ihtimalide doğru orantıda mı artıyor ?
  - Yaşı arttıkça kanser olma ihtimali daha mı çok ?
